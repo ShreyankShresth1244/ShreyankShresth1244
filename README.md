@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShreyankShresth1244
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++,CSS,HTML,JavaScript
 - 📫 How to reach me shreyank.shresth@learner.manipal.edu
 
 <!---
