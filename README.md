@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShreyankShresth1244
-- 👀 I’m interested in Gaming
+- 👀 I’m interested in Gaming,WebDev and Machine Learning
 - 🌱 I’m currently learning C++,CSS,HTML,JavaScript
 - 📫 How to reach me shreyankmit@gmail.com
 
